@@ -3,26 +3,26 @@
 
 Краткие данные о используемым навыках, методиках и библиотеках в проектах:
 
-- project_1: предобработка данных, Pandas
+- project_1: предобработка данных, лемматизация. `Pandas`, `pymystem3`.
 
-- project_2: предобработка данных, исследовательский анализ данных, визуализация данных, Pandas, matplotlib.
+- project_2: предобработка данных, исследовательский анализ данных, визуализация данных. `Pandas`, `matplotlib`.
 
-- project_3: описательная статистика, проверка стат. гипотез, Pandas, Numpy, SciPy, matplotlib.
+- project_3: описательная статистика, проверка стат. гипотез. `Pandas`, `Numpy`, `SciPy`, `matplotlib`.
 
-- project_4: сборный проект, включает все вышеописанные навыки, методики, библиотеки (далее данные перечень не указывается в проектах).
+- project_4: сборный проект, включает все вышеописанные навыки, методики. `Pandas`, `Numpy`, `SciPy`, `matplotlib`.
 
-- project_5: Scikit-learn, модели классификации, метрики моделей классификации.
+- project_5: модели классификации, метрики моделей классификации. `Pandas`, `matplotlib`, `Scikit-learn`.
 
-- project_6: Scikit-learn, модели классификации, метрики моделей классификации.
+- project_6: модели классификации, метрики моделей классификации. `Pandas`, `Scikit-learn`.
 
-- project_7: Scikit-learn, модели регрессии, метрики моделей регрессии, борьба с дисбалансом классов, BootStrap.
+- project_7: модели регрессии, метрики моделей регрессии, борьба с дисбалансом классов, BootStrap. `Pandas`, `Numpy`, `SciPy`, `Scikit-learn`.
 
-- project_8: Scikit-learn, Seaborn, модели регресси и их метрики, автоматический подбор гиперпараметров моделей (далее попдобный перечень не указывается).
+- project_8: модели регресси и их метрики, автоматический подбор гиперпараметров моделей. `Pandas`, `Numpy`, `SciPy`, `matplotlib`, `Scikit-learn`, `Seaborn`. 
 
-- project_9: Numpy, линейная алгебра.
+- project_9: линейная алгебра. `Pandas`, `Numpy`, `Scikit-learn`.
 
-- project_10: lightgbm, catboost.
+- project_10: градиентный бустинг, регрессия. `Pandas`, `Numpy`, `matplotlib`, `Scikit-learn`, `Seaborn`, `lightgbm`, `catboost`.
 
-- project_11: временные ряды, statsmodels
+- project_11: временные ряды. `Pandas`, `Numpy`, `matplotlib`, `Scikit-learn`, `Seaborn`, `catboost`, `statsmodels`.
 
-- project_12: nltk, tf-idf, word2vec
+- project_12: tf-idf, word2vec. `Pandas`, `Numpy`, `matplotlib`, `Scikit-learn`, `Seaborn`, `catboost`, `nltk`.
