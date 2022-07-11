@@ -1,4 +1,4 @@
-Используемые навыки и инструменты: tf-idf, word2vec. `Pandas`, `Numpy`, `matplotlib`, `Scikit-learn`, `Seaborn`, `catboost`, `nltk`.
+### Используемые навыки и инструменты: tf-idf, word2vec. `Pandas`, `Numpy`, `matplotlib`, `Scikit-learn`, `Seaborn`, `catboost`, `nltk`.
 
 В данной папке находится выполненный проект в рамках курса Яндекс.Практикум - Специалист по Data Science - Машинное обучение для текстов.
 
