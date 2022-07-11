@@ -103,7 +103,7 @@
 По условиям задания для страховой компании необходимо разработать алгоритм защиты персональных данных, который бы не ухудшал качество модели ML. 
 
 
-## [Project_10](ht10ps://github.com/TaywanZ/project_yandex_practicum/tree/main/project_10)
+## [Project_10](https://github.com/TaywanZ/project_yandex_practicum/tree/main/project_10)
 
 **Краткие сведениия:**
 
